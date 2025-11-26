@@ -9,9 +9,9 @@ Beyond my technical skills, I have proven leadership experience. I served as the
 
 You can connect with me better through the following:
 
-* View my **[portfolio site](https://the-jeremiah-portfolio.vercel.app/)**.
-* Read up on my **[resume](https://the-jeremiah-portfolio.vercel.app/)**.
-* Send me an email or message me on **[LinkedIn](https://www.linkedin.com/in/jeremiah-manalang/)**.
+* View my [portfolio site](https://the-jeremiah-portfolio.vercel.app/).
+* Read up on my [resume](https://the-jeremiah-portfolio.vercel.app/).
+* Send me an email or message me on [LinkedIn](https://www.linkedin.com/in/jeremiah-manalang/).
   
 Thank you, hope to hear from you soon!
 
