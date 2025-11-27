@@ -1,4 +1,4 @@
-## hi there :)
+### hi there :)
 
 I'm Jere, a graduate with a **B.S. in Computer Engineering (2025)** from Adamson University. 
 
