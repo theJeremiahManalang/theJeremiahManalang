@@ -1,15 +1,16 @@
-## hi there :) 
+## Hi there, I’m Jere :)
 
-I'm Jere, and I just build for fun!
+I’m a software developer who enjoys turning ideas into useful applications—and building for fun along the way. I’m curious about **AI and cloud computing**, and I enjoy exploring new tools and learning how things work.
 
-My professional background includes internships and professional roles focused on enterprise solutions. As a **Junior Systems Developer** at *[Wilcon Depot, Inc.](https://shop.wilcon.com.ph/)*, I contributed to enterprise system development and maintenance. Previously, as a **Software Developer Intern** at *[Aboitiz Foods Group](https://aboitizfoods.com/)*, I developed a customer-facing web application using the jQuery framework and Google App Script to streamline payment processing. I established a data pipeline with Google Sheets and automated Google Drive integration for secure multi-file uploads. I also contributed to logistics optimization as a **Digital Transformation Intern** at *[Schneider Electric Philippines](https://www.se.com/ph/en/)*, where I developed the UI for a 3D truck container filler using Unity and C#.
+### What I do
 
+- **Junior Systems Developer at [Wilcon Depot](https://shop.wilcon.com.ph/)** — Contribute to system development and maintenance using PHP and Laravel.
+- **Frontend Developer at DEVCON Philippines** — Work on frontend development as a contract developer.
 
-You can learn more about me through the following:
-* You can visit my [portfolio website](https://the-jmanalang-portfolio.vercel.app/).
-* You can communicate with me through my email (*engr.jeremiah.m@gmail.com*) or message me on my [LinkedIn](https://www.linkedin.com/in/jeremiah-manalang/). 
+Previously, I built a customer-facing payment request application at **[Aboitiz Foods](https://aboitizfoods.com/)** using jQuery and Google Apps Script, integrating Google Sheets and Google Drive for submissions and file uploads. At **[Schneider Electric](https://www.se.com/ph/en/)**, I developed a Unity and C# interface for visualizing box positioning and container filling.
 
-Reach out anytime :)
+### Let’s connect
 
+[Portfolio](https://the-jmanalang-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jeremiah-manalang/) · [Email](mailto:engr.jeremiah.m@gmail.com)
 
-
+Always happy to exchange ideas, talk about projects, or learn something new :)
